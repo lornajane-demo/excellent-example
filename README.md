@@ -9,3 +9,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla consectetur nunc 
 Aliquam vitae egestas metus. Etiam tempor ipsum in mi hendrerit, vitae ullamcorper neque bibendum. Vestibulum malesuada consequat venenatis. Pellentesque ultrices, sapien quis ultricies elementum, tortor ipsum egestas elit, vel rutrum libero nibh sit amet nibh. Aliquam non arcu tempus, mattis tellus vel, varius erat. Sed ut lorem commodo, pellentesque mi sed, elementum neque. Mauris aliquam mi enim, sit amet posuere elit tristique iaculis. In neque mauris, vestibulum eu aliquam a, fermentum id dui. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam in condimentum diam, eu ullamcorper urna. Sed consequat neque nisi, quis molestie sapien scelerisque condimentum. Nulla efficitur finibus venenatis. Nunc posuere non augue a luctus. Nunc id blandit mi, in convallis nunc. Maecenas facilisis nulla a leo vestibulum, id elementum ante pretium. Proin commodo ipsum metus, eu laoreet elit egestas sed.
 
 Further content is also welcome here.
+
+We also have a [CONTRIBUTING](CONTRIBUTING.md) file.
