@@ -1,6 +1,6 @@
 CONTRIBUTE to this excellent-example
 
-Thank you for taking the time to contribute. Please read the [CODE of CONDUCT](<to-link>).
+Thank you for taking the time to contribute. Please read the [CODE of CONDUCT](CODE_OF_CONDUCT.md).
 As a contributor, here are the guidelines we would like you to follow:
 
 - Try to make good PRs that are not spammy.
