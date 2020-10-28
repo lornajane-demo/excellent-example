@@ -11,5 +11,7 @@ Aliquam vitae egestas metus. Etiam tempor ipsum in mi hendrerit, vitae ullamcorp
 Further content is also welcome here.
 If you want to make contributions to this example, check out [Contribution Guidlines](CONTRIBUTING.md) and our [Code of Conduct](CODE_OF_CONDUCT.md)
 
-Vonage is amazing.
-Hacktoberfest is fun! 
+[Vonage](https://www.vonage.com/) is amazing.
+[Hacktoberfest](https://hacktoberfest.digitalocean.com/) is fun! 
+
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
